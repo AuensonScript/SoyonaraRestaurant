@@ -1,3 +1,6 @@
+@use "./fonts" as fonts;
+@use "./colors" as colors;
+
 * {
 	box-sizing: border-box;
 	padding: 0;
